@@ -1,0 +1,7 @@
+Div Tag --> is a section in which more html elements can be added and this
+            entire div tag can be styled with css and also javascript can be used to do some actions on this div tag.
+            
+SectionTag --> The section tag is used to make the document section separate, header, paragaph tags can be used inside it.
+
+Article Tag --> It specifies independent content which also contains header and paragraph tags inside it.
+            
